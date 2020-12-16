@@ -1,2 +1,4 @@
-# sudoku-gui
-Sudoku with gui with auto solver option.
+# Sudoku with GUI
+Sudoku with gui.
+Back tracking and auto solver option.
+With timer.
